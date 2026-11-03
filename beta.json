@@ -1,7 +1,7 @@
 {
-  "sha256": "2cafaeb9d05c1617353dc87d2437b82450f2e594f8b66213c49a75499eace120",
+  "installer_url": "https://github.com/Jxonyendi/Jarvin-Releases/releases/download/v0.9.0-beta.7/Jarvin-Setup-0.9.0-beta.7.exe",
   "mandatory": true,
-  "installer_url": "https://github.com/Jxonyendi/Jarvin-Releases/releases/download/v0.9.0-beta.6/Jarvin-Setup-0.9.0-beta.6.exe",
   "channel": "beta",
-  "version": "0.9.0-beta.6"
+  "version": "0.9.0-beta.7",
+  "sha256": "6ff7a1e9d0bd8c979871b680f05550caeaa312255df1999375ccd3028f9bc17e"
 }
